@@ -32,6 +32,9 @@ Each session gets its own numbered folder; new ones appear as the course advance
 - `extra/diamonds/regresion_lineal.ipynb`: Predict diamond prices
 - `extra/california/seleccion_vif_pvalues.ipynb`: Variable selection with VIF and p-values (California Housing)
 
+**Parcial 2**
+- `parcial-2/parcial_2.ipynb`: Actividad de clasificación del rango de precio de celulares (`price_range`: Low, Mid_Low, Mid, High)
+
 **Environment**
 - `pyproject.toml` / `uv.lock`: Project dependencies and the exact pinned versions
 - `.python-version`: Exact Python version used everywhere
